@@ -1,0 +1,17 @@
+@import "../style.css";
+
+header {
+  margin: 2.5rem auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #424141;
+  font-size: larger;
+}
+.accent {
+  height: 5px;
+  width: 4rem;
+  border-radius: 20px;
+  background-color: var(--primary-color);
+  margin: 0.5rem auto;
+}
